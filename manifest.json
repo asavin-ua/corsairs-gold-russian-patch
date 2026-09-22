@@ -1,0 +1,571 @@
+﻿{
+    "PatchVersion":  "1.0",
+    "BuildDate":  "2026-09-13",
+    "OriginalExecutableSha256":  "93FD792E80EC085F36BE814A4A244E96FDCB32CE3010F7B91064836C7FC02FE2",
+    "PatchedExecutableSha256":  "2070286F84C78EDC7C6BC70CC774293EAD36B4BB3B5E5C76860BE1EF231824F4",
+    "ExecutablePatchOffset":  179325,
+    "ExecutableOriginalByte":  124,
+    "ExecutablePatchedByte":  114,
+    "Files":  [
+                  {
+                      "Path":  "data\\CRK\\L_ENGLIS.CRK",
+                      "Size":  18783,
+                      "Sha256":  "4DDE568A40EDFD203674FC43F3642E7FC0F57380B9DB851DE9E80F2D753BC76E"
+                  },
+                  {
+                      "Path":  "data\\CORS1.F32",
+                      "Size":  10998,
+                      "Sha256":  "0D0FCD6E78F4561D21235B7F1CB9C4461CDB2CB66A3E7E4E58F1AA8CBC199C85"
+                  },
+                  {
+                      "Path":  "data\\CORS3.F32",
+                      "Size":  17110,
+                      "Sha256":  "FE58BA97128C292608E8D7533FE8DA3B4D10C49A783457CEA10CE8AE962A283A"
+                  },
+                  {
+                      "Path":  "data\\BOOK.F32",
+                      "Size":  19958,
+                      "Sha256":  "2A6F3234DCA11A9E8225C5EF1E74E57E12818F66DB938FE098139DF8610D77D7"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\BLU\\INT\\INT01BLU.ENG",
+                      "Size":  1331,
+                      "Sha256":  "B2EB7B584246F880073A6D6E99C99A59919E0EEC5C09938DF2B6F013A7A1317F"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\BLU\\MSG\\MIS01BLU.ENG",
+                      "Size":  4013,
+                      "Sha256":  "69947680A9E3658477F7F546F5DE8596E1397A6FB377B30230C2C8D6BEEA8A3F"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\ORA\\INT\\INT01ORA.ENG",
+                      "Size":  1378,
+                      "Sha256":  "1E8F13BB69AFF5E14104A99E7B4C85AE6B79F0E68F78355155EE82CF7D0060C8"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\ORA\\MSG\\MIS01ORA.ENG",
+                      "Size":  4121,
+                      "Sha256":  "FDF9824D6D562557E5CF4B6E0F850D39BE194400662BD43AB3BF2CC342B23794"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\RED\\INT\\INT01RED.ENG",
+                      "Size":  1368,
+                      "Sha256":  "270D6AEFB78E695C2BFC36AA263B2E5557DD1690A793C3DDA9266690B1E865A9"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\RED\\MSG\\MIS01RED.ENG",
+                      "Size":  1752,
+                      "Sha256":  "F356EEA983BC51C806CADB5CB38B43ED6684905B856F64175321A5BA3F4A9255"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\YEL\\INT\\INT01YEL.ENG",
+                      "Size":  944,
+                      "Sha256":  "B43016AE29A98C94E8014327214C441E9490E3A8133CAA313F9AA80510D8C512"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS01\\YEL\\MSG\\MIS01YEL.ENG",
+                      "Size":  4933,
+                      "Sha256":  "F8C654AFBA9BFFF5E35E6B39CA4B2FBB9AB8E400F355C5CEA16726C1063AA2C5"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\BLU\\INT\\INT02BLU.ENG",
+                      "Size":  1832,
+                      "Sha256":  "E133567E33FC5C6CACD2B211D08EB0EF7E03275D8CE72D151AD6919CC03F9E91"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\BLU\\MSG\\MIS02BLU.ENG",
+                      "Size":  1631,
+                      "Sha256":  "14C9D6CC1788F7AE5FA1687ADA43E59BAAAE0B31B3FCEECA74D4AF26AE74B31A"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\ORA\\INT\\INT02ORA.ENG",
+                      "Size":  1050,
+                      "Sha256":  "06FF45C97A73717513E09148D3B7FC601E842DD74C157E9C4B64EE74088556C7"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\ORA\\MSG\\MIS02ORA.ENG",
+                      "Size":  3406,
+                      "Sha256":  "F00D8BE8744EC246FB67E917899A4474C752ED4A8CDB078753BF989BDE9EDE5F"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\RED\\INT\\INT02RED.ENG",
+                      "Size":  968,
+                      "Sha256":  "BF0018BD3A42A88B7C356802A2E2FF50B9A8F3F349077634DB3E19F3202C6870"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\RED\\MSG\\MIS02RED.ENG",
+                      "Size":  2075,
+                      "Sha256":  "0461904991F2C9C902817AFDDBF4BBA0B1F9679ED213056F5ADE3BDBE70EFADA"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\YEL\\INT\\INT02YEL.ENG",
+                      "Size":  1133,
+                      "Sha256":  "29DE8BAF3E850D7C2B61AD1BCA36858B2987F933B3C9A43C656FDE3CEC133D8F"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS02\\YEL\\MSG\\MIS02YEL.ENG",
+                      "Size":  3867,
+                      "Sha256":  "07FC21B317FAA2955CAA2D48588F078402C30C7D80329BDCCBA78E79DDB06FAE"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\BLU\\INT\\INT03BLU.ENG",
+                      "Size":  1009,
+                      "Sha256":  "01595FC18D0D815AFF414523C85D562139F3A4398B935D0996F08BC4D2520FD5"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\BLU\\MSG\\MIS03BLU.ENG",
+                      "Size":  2000,
+                      "Sha256":  "976296A48191B800B5E1BD1B2CD759B5DD33EB5265F92ACC9A7F91E166651815"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\ORA\\INT\\INT03ORA.ENG",
+                      "Size":  1082,
+                      "Sha256":  "08313AB0C60210E8CDCD9664B9B0769FE26171FBA4179C00FAD75B8203E85FC5"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\ORA\\MSG\\MIS03ORA.ENG",
+                      "Size":  3195,
+                      "Sha256":  "7280A60AB4C976DA20BA358B08D40247365CCFFAD99B11284003FF222C08B3A6"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\RED\\INT\\INT03RED.ENG",
+                      "Size":  1053,
+                      "Sha256":  "A5DA88B73B2EABE3BEAD39D516264242B583B1A39D1CA4F36B32097A7917F859"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\RED\\MSG\\MIS03RED.ENG",
+                      "Size":  1444,
+                      "Sha256":  "E9A149AE01EBD4F92FC63E1A4EECB9AAD5A0D86750ECD6236EA02C232EBFF850"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\YEL\\INT\\INT03YEL.ENG",
+                      "Size":  1409,
+                      "Sha256":  "23FCEC7C36EAA2EE8A8155EE77F937628BC2E9B4C0037022CECE2B2A689211C9"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS03\\YEL\\MSG\\MIS03YEL.ENG",
+                      "Size":  2112,
+                      "Sha256":  "6DB122C3CFFBF5E6CBB508965746D8A5B8B35B045BB983D44FC02AF9442A96E3"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\BLU\\INT\\INT04BLU.ENG",
+                      "Size":  1312,
+                      "Sha256":  "947E4D1B06DF2919A8CF095BC04381885B8A5FBE7FA1147E9FC3FB1EC233491B"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\BLU\\MSG\\MIS04BLU.ENG",
+                      "Size":  2471,
+                      "Sha256":  "08CD9DAD497741C76D31D79DA2375D35D7217172925E7D03462DF8B9F0A543E2"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\ORA\\INT\\INT04ORA.ENG",
+                      "Size":  1048,
+                      "Sha256":  "B3778354C91FF1FEF5B7339C3583AE4C1684703E05A43DE01B79FF8E467B0BAF"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\ORA\\MSG\\MIS04ORA.ENG",
+                      "Size":  1670,
+                      "Sha256":  "42413CA7E08AD8F8CCC972DFFD23DF8F33BF2D651271AFAE09AA2C9845BBED50"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\RED\\INT\\INT04RED.ENG",
+                      "Size":  1094,
+                      "Sha256":  "E3A1BFB43526F4AA473DF6E4D713CD1219BBDABB90F361649E06973E17AE38DA"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\RED\\MSG\\MIS04RED.ENG",
+                      "Size":  1757,
+                      "Sha256":  "E4C228E6BF87E7FE49E543F496B1E36F0FDB0F58E10B27D2CC6B1DD25F19B77E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\YEL\\INT\\INT04YEL.ENG",
+                      "Size":  1374,
+                      "Sha256":  "FD1E406487F482A7CF4E20D595E4296A2C5AED822FD640241C38E8EC33D068F9"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS04\\YEL\\MSG\\MIS04YEL.ENG",
+                      "Size":  4152,
+                      "Sha256":  "DDB6639FB1BC91723056DAAA69148D387FCA2DD8C6C9E439F244447834C35C70"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\BLU\\INT\\INT05BLU.ENG",
+                      "Size":  1141,
+                      "Sha256":  "D8D7AAF1E133C7B4E613386310D100147E109E4EEA38D668702A117F72DC3F81"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\BLU\\MSG\\MIS05BLU.ENG",
+                      "Size":  890,
+                      "Sha256":  "8305428D4AD0256AAF5725484194E96DB1E8B3B9DB3E34626C6802F475CF39A8"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\ORA\\INT\\INT05ORA.ENG",
+                      "Size":  1238,
+                      "Sha256":  "72AA237E5B721D296F9121221B46275EF3608E1F4BD2EF4499181E0AB7EF3740"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\ORA\\MSG\\MIS05ORA.ENG",
+                      "Size":  2501,
+                      "Sha256":  "9AF3B7A0B8EC81895AF5457A79B5D3BC3F1954850A2441F436B6A63F1165D51C"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\RED\\INT\\INT05RED.ENG",
+                      "Size":  1001,
+                      "Sha256":  "0F82189684D652A6B109216D43F5478D96BBE6D0271D3A48D0CBC6CC1DC1C910"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\RED\\MSG\\MIS05RED.ENG",
+                      "Size":  738,
+                      "Sha256":  "9E98844319747EF131567370FBAE2F401EE0EF76D308BADE850F5EB4AD032A73"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\YEL\\INT\\INT05YEL.ENG",
+                      "Size":  1352,
+                      "Sha256":  "3E2304DA9A628F42708EC14034F0ECE09A352848A04DD88858F7A935A8119ABA"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS05\\YEL\\MSG\\MIS05YEL.ENG",
+                      "Size":  561,
+                      "Sha256":  "CEA862F65DD2339876201636740A2DE86EF2AB06AC81E6B6C93358C5FC187B30"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\BLU\\INT\\INT06BLU.ENG",
+                      "Size":  1663,
+                      "Sha256":  "0F4AA8CE0DC85A4883B5C20C1D4C8EA99BD46ADA3A3336FFBD709E2C852E4814"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\BLU\\MSG\\MIS06BLU.ENG",
+                      "Size":  3018,
+                      "Sha256":  "3A4CDEADFE683B6A9B07674CD9785466C3BE5F374DDAAA2240E0F387A1EFD308"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\ORA\\INT\\INT06ORA.ENG",
+                      "Size":  978,
+                      "Sha256":  "0C98615058B01BBA8722FFE487ADD01C549ADCABF6A25BE45B43B0F19E3C99FB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\ORA\\MSG\\MIS06ORA.ENG",
+                      "Size":  2216,
+                      "Sha256":  "CB61C81AEBEAAC490910938D4AA305BCF1E616B730C5CE85FD13C2223F94D080"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\RED\\INT\\INT06RED.ENG",
+                      "Size":  1525,
+                      "Sha256":  "D9BB3A1359B94FBCFE6CE2D2340C9D14B990CFDF81B4A9C49E66B323A0652FDB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\RED\\MSG\\MIS06RED.ENG",
+                      "Size":  2492,
+                      "Sha256":  "2AD1D43402422528CC2436047CF73899A9338C68EE04E586BF949F89C2922EF4"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\YEL\\INT\\INT06YEL.ENG",
+                      "Size":  1595,
+                      "Sha256":  "876D1D419782BBECF39F24FFC76CF365F9F15FC25096996128C7D5DBAF9CD0A5"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS06\\YEL\\MSG\\MIS06YEL.ENG",
+                      "Size":  4846,
+                      "Sha256":  "6F751E239C27F1D0EFE0BCDDEEA171164C82966E9B1740DC5E588584D60904A3"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\BLU\\INT\\INT07BLU.ENG",
+                      "Size":  1467,
+                      "Sha256":  "9CC50F7D775E94F47E406C7BBABE0A6A6D98413A4292C876B4B8400A3C3B153E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\BLU\\MSG\\MIS07BLU.ENG",
+                      "Size":  3908,
+                      "Sha256":  "71568ED21D3276DF5D61C77D58B13284C25A1CD4BD63078C5DF76AA3881D0AA1"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\ORA\\INT\\INT07ORA.ENG",
+                      "Size":  1172,
+                      "Sha256":  "0DD6B3A1C210D9364EB7240664968E5085487E3F2923AACE78F76617C361DDC4"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\ORA\\MSG\\MIS07ORA.ENG",
+                      "Size":  1170,
+                      "Sha256":  "812AD80ABDE321CDED680D7BCF227569E9887B7F48B1EB161D80102402B6830D"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\RED\\INT\\INT07RED.ENG",
+                      "Size":  1284,
+                      "Sha256":  "F4BFDA99172700DD799EC4AB755244590E85E20FE4C67D6D3D9BD03F418EE17B"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\RED\\MSG\\MIS07RED.ENG",
+                      "Size":  751,
+                      "Sha256":  "EC601097D49EAF10CA74932F66118AAAEE96E7C29C1BD4B7E0FEF97F525129C9"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\YEL\\INT\\INT07YEL.ENG",
+                      "Size":  1411,
+                      "Sha256":  "E48AF7D561E76B48C1B5C7A4AE85969A58164C8384DA6CC31677C19DB41AB5CB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS07\\YEL\\MSG\\MIS07YEL.ENG",
+                      "Size":  5166,
+                      "Sha256":  "E094FBD53E32DBB875C9AFFE2D1E03294C2740D610118AF172593ABFB1BEA303"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\BLU\\INT\\INT08BLU.ENG",
+                      "Size":  1266,
+                      "Sha256":  "983F56C7FCEE10127EE603D29E9278073063B0EAFE662217A90E66ED91AB3985"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\BLU\\MSG\\MIS08BLU.ENG",
+                      "Size":  1418,
+                      "Sha256":  "5203880589AF438F78E92EB9E79F93A54AFF24F4C68E3EA3FC619F6C0C0A35FB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\ORA\\INT\\INT08ORA.ENG",
+                      "Size":  1360,
+                      "Sha256":  "35EFB5F09A92D96B7AAA170704EA8A57BD85D4C2CD38A8A3588FA5E47ED2E4E7"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\ORA\\MSG\\MIS08ORA.ENG",
+                      "Size":  7683,
+                      "Sha256":  "2A1E0F06FC0D385789019691A7609D4438F70941F63E5AD1D78B9AEB7652B54C"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\RED\\INT\\INT08RED.ENG",
+                      "Size":  1168,
+                      "Sha256":  "17ABECFAFA3941D03BC6A91369AEF34177F435D6EF264A1C20D268750B868068"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\RED\\MSG\\MIS08RED.ENG",
+                      "Size":  1143,
+                      "Sha256":  "EE7BCCA4C29544F46E6A69A07F51EB2BAE87A548FDFB623D6E632A96EB581A99"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\YEL\\INT\\INT08YEL.ENG",
+                      "Size":  1375,
+                      "Sha256":  "3D0E35D6EBCF64AD09B8B084CD995BA8C472E39B96661151C282282BC26DF33E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS08\\YEL\\MSG\\MIS08YEL.ENG",
+                      "Size":  3132,
+                      "Sha256":  "82D4E94AE070A7A57CF286A1E42A33BE285FEFF356429FA11F9F47A216ECED1A"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS09\\BLU\\INT\\INT09BLU.ENG",
+                      "Size":  1475,
+                      "Sha256":  "7BB5A6DCF9AACC05C6D8057E6AF7031BAF205D1DC1CD36A4D13C411979ADEC6E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS09\\BLU\\MSG\\MIS09BLU.ENG",
+                      "Size":  1335,
+                      "Sha256":  "CCD024F4FBDF1BD3AAA7CF3EFB9D40065813B387AADDF800DBA0A2A2C5FE3188"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS09\\RED\\INT\\INT09RED.ENG",
+                      "Size":  1128,
+                      "Sha256":  "B48588E5928160C32A3E5E17476459FE7BEE08680995B430B95F4CA9B30A360D"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS09\\RED\\MSG\\MIS09RED.ENG",
+                      "Size":  818,
+                      "Sha256":  "20D90AD3AF8B5AFDA4E367A1651C31FA67E0F64E5D9E7718A74B22344A80CF01"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS10\\BLU\\INT\\INT10BLU.ENG",
+                      "Size":  1153,
+                      "Sha256":  "7C11BEA291E1102C4C8307C2014518528F308C0ABAAAC8D5C5497AE4033FC24A"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS10\\BLU\\MSG\\MIS10BLU.ENG",
+                      "Size":  1481,
+                      "Sha256":  "9BA930AD4FEECF5858CC93633C1C0D5C9C3ACE9DA1D325B6878F5BE33E4027FA"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS10\\RED\\INT\\INT10RED.ENG",
+                      "Size":  1325,
+                      "Sha256":  "5719B7F395AD7C6B57D698CEC3AD5BB66C96925DC7D424BFE4B7AF43EE5EDF8C"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS10\\RED\\MSG\\MIS10RED.ENG",
+                      "Size":  1214,
+                      "Sha256":  "6302F0EBE2F0BC932717625203192CD9945245CE37115D12CE0343A0C46982AA"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS11\\BLU\\INT\\INT11BLU.ENG",
+                      "Size":  1325,
+                      "Sha256":  "49D5CB76D819B10C87E2206EF0551CB32B24A1767FD5024085EC73737C0562BC"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS11\\BLU\\MSG\\MIS11BLU.ENG",
+                      "Size":  1154,
+                      "Sha256":  "3BAC1C6ED661A2AE0FFA7E21D7F1B7A8EF09FFE3FA3FD808659EAF8C30183DF6"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS11\\RED\\INT\\INT11RED.ENG",
+                      "Size":  1144,
+                      "Sha256":  "80CB138C75D2F4D08050CFF9C6ACFD768F6ABD6A9D6E40390160DFABAA92B7BC"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS11\\RED\\MSG\\MIS11RED.ENG",
+                      "Size":  1094,
+                      "Sha256":  "9B75C4839F466C9126AA562D8E3D26EC6CBF10C75E26B78C03B895139FA4C52F"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS12\\BLU\\INT\\INT12BLU.ENG",
+                      "Size":  1125,
+                      "Sha256":  "5E2E1E7A20AAB669625B4D66196717AFB9E41333CAA370C14351C3D64F34F88B"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS12\\BLU\\MSG\\MIS12BLU.ENG",
+                      "Size":  1215,
+                      "Sha256":  "250F06AAF8D71A02736D64A31D9F09FEEB7FB9D0C0EE6B668492666C735CA710"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS12\\RED\\INT\\INT12RED.ENG",
+                      "Size":  988,
+                      "Sha256":  "BF5F5D3D97D9837F1CA6BA4D06EC66269CC33E5346B024D95F512B6BD2666F85"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS12\\RED\\MSG\\MIS12RED.ENG",
+                      "Size":  1370,
+                      "Sha256":  "DFC010E9F25171565303C12328BA9F8DB06736D6881AB70847C18D02D52152FB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS21\\BLU\\INT\\INT21BLU.ENG",
+                      "Size":  542,
+                      "Sha256":  "D85AFC38F2031E4439FFF65D9105627DFD998DBC1B725FFDA216F396E1A3FC08"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS21\\BLU\\MSG\\MIS21BLU.ENG",
+                      "Size":  3528,
+                      "Sha256":  "D05FD2CB169B349C1DAAD08E430A459220CD59E61D07A64FC0377C6E4EF84003"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS21\\RED\\INT\\INT21RED.ENG",
+                      "Size":  544,
+                      "Sha256":  "5BD9CA3B8962326F6DF5BBF767F380DB3851F1FD35D23C2A0CA997208D3C411E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS21\\RED\\MSG\\MIS21RED.ENG",
+                      "Size":  3524,
+                      "Sha256":  "00129B28126FF6FDA575F7845DC8375561616B510C3D0F7755D2DA644FC3E45B"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS22\\BLU\\INT\\INT22BLU.ENG",
+                      "Size":  530,
+                      "Sha256":  "7D48B98D4DCEE83AF085C8C45DB01BFAF716BC352B981755370DC70890211900"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS22\\BLU\\MSG\\MIS22BLU.ENG",
+                      "Size":  3645,
+                      "Sha256":  "E8ED2D16C4CDD0807DB0BD8C722C173B5D1379316EB097A9C454087023FDD12A"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS22\\RED\\INT\\INT22RED.ENG",
+                      "Size":  530,
+                      "Sha256":  "7D96CE64E0F5D726283AAD2A68D8359142B8ADC2A43503C2151D872F0ED58B25"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS22\\RED\\MSG\\MIS22RED.ENG",
+                      "Size":  3628,
+                      "Sha256":  "7965A502C3B80E9CC1C437FBE820F18A51A18E76D6CBFD62639888AA1708B962"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS23\\BLU\\INT\\INT23BLU.ENG",
+                      "Size":  464,
+                      "Sha256":  "134749FC515F86FF5812D404D4297B93D325C770D62582E7EEDBF04C60E5703E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS23\\BLU\\MSG\\MIS23BLU.ENG",
+                      "Size":  2006,
+                      "Sha256":  "6F9E5DB60BBE75B27EB3CDA5E76FCC7BFB1664C2D9AF377AA659A0B5C01B5BD1"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS23\\RED\\INT\\INT23RED.ENG",
+                      "Size":  464,
+                      "Sha256":  "2DF47AB4F1CC23B09CEDA9A3B571378F4C9203FA7C83758EF69E6F5159B408BD"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS23\\RED\\MSG\\MIS23RED.ENG",
+                      "Size":  2008,
+                      "Sha256":  "8AF917E1C4F4713A0FA618F96676D07CFFD30A8B122659E226E0A68354102081"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS24\\BLU\\INT\\INT24BLU.ENG",
+                      "Size":  531,
+                      "Sha256":  "55A90867D80045F121931AA851A8497BF96D80415F0C97D5806BBFBEC3ACF34E"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS24\\BLU\\MSG\\MIS24BLU.ENG",
+                      "Size":  1441,
+                      "Sha256":  "49C14520023BF6B617C778508C8E4336404CF61764C4A5118937D589E7E256D4"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS24\\RED\\INT\\INT24RED.ENG",
+                      "Size":  531,
+                      "Sha256":  "D979ACF074A08ABE5FD01CBEAF89239C742FFBEB15E89DF3B444041C24BB21F8"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS24\\RED\\MSG\\MIS24RED.ENG",
+                      "Size":  1418,
+                      "Sha256":  "47BA1BB5F78C2377FE19E29B31F693E6A42EE8CD3B25E958559BBE1145B1CAC9"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS31\\BLU\\INT\\INT31BLU.ENG",
+                      "Size":  317,
+                      "Sha256":  "00E16D09A7EA3947DD0E3F6C63BC501328E8CBE4C131D72FD394F47E4ED3A937"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS31\\BLU\\MSG\\MIS31BLU.ENG",
+                      "Size":  221,
+                      "Sha256":  "52A832F3FD6B90535346F7F7088763D6EA1AA5B0129F26EC620E4D8437F3A447"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS32\\ORA\\INT\\INT32ORA.ENG",
+                      "Size":  835,
+                      "Sha256":  "72E7C18261C68ACD37AD60EA2803938FAE90FA9E2A545DD6CF468565983CFEE7"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS32\\ORA\\MSG\\Mis32Ora.eng",
+                      "Size":  177,
+                      "Sha256":  "0FD869B1AEEB8FC60F001185C2FA0AC27751E93C4F107DB7D2CFF0DE1F0405F6"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS33\\RED\\INT\\INT33RED.ENG",
+                      "Size":  259,
+                      "Sha256":  "3E2C2FB5D023F81C2CB8A21F11870896359D099E0EA9513CFE273105CAD2A232"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS33\\RED\\MSG\\Mis33Red.ENG",
+                      "Size":  184,
+                      "Sha256":  "765271DDD7958153921BC6167FF0BFF8493EC3384E5CE93048425A5BA57A09C0"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS34\\YEL\\INT\\INT34YEL.ENG",
+                      "Size":  694,
+                      "Sha256":  "98CBB76E50FA9E8507DE6E4640E0BF15F68CCFD5DE044458B67F432479923DDF"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS34\\YEL\\MSG\\Mis34Yel.eng",
+                      "Size":  166,
+                      "Sha256":  "EFF65FC0264FCFA7FC1D68E6E3FA2ED8EC1678FE74E57945FEAFCA7A0C9007FB"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS35\\Bla\\INT\\INT12RED.ENG",
+                      "Size":  994,
+                      "Sha256":  "7A6A4B19544171A4B2AB3A3DE0C4848DDAFEFED53D5F9CC1CA0A06D7E577C27B"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS35\\Bla\\MSG\\MIS12RED.ENG",
+                      "Size":  1387,
+                      "Sha256":  "6A1004E0B8650298C94A4A7CD0A11F5F5D43507037CDC6CECDA8EBF314A53448"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS35\\YEL\\INT\\Int35yel.eng",
+                      "Size":  317,
+                      "Sha256":  "CA494D8DF4BBC9B7E43262AF017D2F317A921523385EB697FB759D350C8326C6"
+                  },
+                  {
+                      "Path":  "data\\missions\\MIS35\\YEL\\MSG\\Mis35Yel.eng",
+                      "Size":  205,
+                      "Sha256":  "BB2E43F55CD082EB8EDE755A2477446D1F0AF81299A5BA5C3C9E0348258236FD"
+                  }
+              ]
+}

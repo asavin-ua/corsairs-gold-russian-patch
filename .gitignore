@@ -1,0 +1,18 @@
+# Original copyrighted game resources and local backups
+/backup/
+
+# Generated distributable archives and staging directories
+/releases/
+*.zip
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+

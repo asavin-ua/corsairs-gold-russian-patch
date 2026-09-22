@@ -1,0 +1,14 @@
+*.md text eol=lf
+*.txt text eol=lf
+*.utf8.txt text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+
+*.F32 binary
+*.FNT binary
+*.TGA binary
+*.CRK binary
+*.exe binary
+*.dll binary
+*.zip binary
+
